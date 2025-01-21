@@ -1,1 +1,0 @@
-string variable_name 

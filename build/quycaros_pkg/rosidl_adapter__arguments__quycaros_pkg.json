@@ -1,8 +1,0 @@
-{
-  "package_name": "quycaros_pkg",
-  "non_idl_tuples": [
-    "/home/adrybcampo/quyca_ws/src/quycaros_pkg:msg/ControlMsg.msg",
-    "/home/adrybcampo/quyca_ws/src/quycaros_pkg:srv/GetVariable.srv",
-    "/home/adrybcampo/quyca_ws/src/quycaros_pkg:srv/SetVariable.srv"
-  ]
-}
