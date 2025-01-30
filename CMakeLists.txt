@@ -14,6 +14,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ControlMsg.msg"
   "srv/GetVariable.srv"
   "srv/SetVariable.srv"
+  "srv/SetEmotion.srv"
 )
 
 ament_export_dependencies(rosidl_default_runtime)

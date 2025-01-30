@@ -1,0 +1,4 @@
+int32 emo_x
+int32 emo_y
+---
+bool success
